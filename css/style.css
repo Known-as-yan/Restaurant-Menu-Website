@@ -1477,14 +1477,11 @@ details p {
         margin-left: 10px;
         margin-right: 10px;
     }
-
-}
-
-@media (max-width: 767px) {
-    .background {
+        .background {
         width: 100%;
         height: auto;
         display: block;
         margin-top: 280px;
     }
 }
+
