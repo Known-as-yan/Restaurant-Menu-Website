@@ -60,7 +60,6 @@
 }
 
 .background{
-    background-image: url("C:\\Users\\Administrator\\Documents\\Website\\background.webp");
     background-size: cover;
     width: 100%;
     opacity: 1.0;
@@ -71,7 +70,7 @@
 
 .home {
     min-height: 100vh;
-    padding: 120px 50px 60px;
+    padding: 120px 50px 20px;
     text-align: center;
 }
 
