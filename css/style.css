@@ -1468,7 +1468,7 @@ details p {
     }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 767px) {
     .about {
         padding: 30px 20px;
     }
