@@ -1480,7 +1480,8 @@ details p {
         margin-right: 10px;
     }
     .background{
-         min-height: 100vh;
+        width:100%;
+        height:300px;
         background-position: center center;
         background-size: cover;
         display: flex;
