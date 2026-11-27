@@ -1481,7 +1481,7 @@ details p {
         margin-right: 10px;
     }
     .pp{
-        margin-left: 2px;
-        margin-right: 2px;
+        margin-left: 0;
+        margin-right: 0;
     }
 }
