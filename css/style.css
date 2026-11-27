@@ -315,6 +315,9 @@ details p {
     background-color: #4b2416;
     margin:0;
 }
+.no{
+    text-decoration:none;
+}
 
 
 /* TOP FAV */
