@@ -1480,12 +1480,8 @@ details p {
         margin-right: 10px;
     }
     .background{
-        width:100%;
-        height:300px;
-        background-position: center center;
+        background-position: center;
         background-size: cover;
-        display: flex;
-        flex-direction: column;
         justify-content: center;
     }
 }
