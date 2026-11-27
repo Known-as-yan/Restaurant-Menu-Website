@@ -59,12 +59,10 @@
     font-weight: bold;
 }
 
-.background{
-    background-size: cover;
+.background {
     width: 100%;
-    opacity: 1.0;
-    
-
+    height: auto;
+    display: block;
 }
 /* home */
 
@@ -1478,5 +1476,14 @@ details p {
     .about p {
         margin-left: 10px;
         margin-right: 10px;
+    }
+
+}
+
+@media (max-width: 767px) {
+    .background {
+        width: 100%;
+        height: auto;
+        display: block;
     }
 }
