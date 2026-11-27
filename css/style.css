@@ -1480,4 +1480,8 @@ details p {
         margin-left: 10px;
         margin-right: 10px;
     }
+    .pp{
+        margin-left: 2px;
+        margin-right: 2px;
+    }
 }
