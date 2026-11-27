@@ -1479,9 +1479,4 @@ details p {
         margin-left: 10px;
         margin-right: 10px;
     }
-    .background{
-        background-position: center;
-        background-size: cover;
-        justify-content: center;
-    }
 }
